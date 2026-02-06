@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
+name: qwen-endpoint
+auth_mode: key
+description: Online endpoint for Qwen 7B LLM model
+tags:
+  model: qwen-7b
+  type: llm
+  version: v1
