@@ -4,6 +4,11 @@ import json
 import logging
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
+"""
+Inference script for deploying a language model on Azure ML.
+This make your endpoint callable for generating text based on prompts.
+"""
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)

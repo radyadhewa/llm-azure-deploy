@@ -1,3 +1,5 @@
+# settings configuration for deploying the model to Azure ML Managed Online Endpoint
+
 $schema: https://azuremlschemas.azureedge.net/latest/managedOnlineDeployment.schema.json
 name: qwen-deployment-v1
 endpoint_name: qwen-endpoint

@@ -1,3 +1,5 @@
+# endpoint settings configuration for Azure ML Managed Online Endpoint
+
 $schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
 name: qwen-endpoint
 auth_mode: key
