@@ -270,7 +270,9 @@ If encountering OOM errors:
 - [Azure ML Documentation](https://learn.microsoft.com/azure/machine-learning/)
 - [Deploy models online](https://learn.microsoft.com/azure/machine-learning/how-to-deploy-online-endpoints)
 - [Managed online endpoints](https://learn.microsoft.com/azure/machine-learning/concept-endpoints)
-- [Transformers documentation](https://huggingface.co/docs/transformers)
+
+More tutorials
+- [GUI based tutorial by Reynal Dsouza](https://www.bacancytechnology.com/blog/deploy-llms-using-azure-ml)
 
 ## 📝 Notes
 
@@ -282,7 +284,3 @@ If encountering OOM errors:
 ## 🤝 Contributing
 
 This is a reference repository. Feel free to fork and adapt to your needs.
-
-## 📄 License
-
-This project is provided as-is for reference purposes.
